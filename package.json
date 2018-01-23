@@ -1,0 +1,23 @@
+{
+  "name": "spb-builder-differ",
+  "version": "1.0.0",
+  "description": "比对两个组件内部信息，取出变动部分(spb-builder-scanner)，实现自动化比对",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zygeilit/spb-builder-differ.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zygeilit/spb-builder-differ/issues"
+  },
+  "homepage": "https://github.com/zygeilit/spb-builder-differ#readme",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "diff": "^3.4.0"
+  }
+}
